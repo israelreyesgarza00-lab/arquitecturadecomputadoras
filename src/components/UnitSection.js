@@ -117,7 +117,7 @@ const UnitSection = ({ unitId, isActive }) => {
             </div>
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://th.bing.com/th/id/R.31bb1d1a002274169f4401eeedf83984?rik=YdRCNYTQI2vLiw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-jSfNRyGQbPE%2fVU2gQlpgYOI%2fAAAAAAAAACo%2fjIAqIIecNd4%2fs1600%2f10.jpg&ehk=KUQI%2bPIpJAAEip3Z7dyUOGLuKGaWbyo8ixKbCSqD00Q%3d&risl=&pid=ImgRaw&r=0" 
+                src="https://tse3.mm.bing.net/th/id/OIP.5nptr-J36CPLKW02yPms8gHaFW?rs=1&pid=ImgDetMain&o=7&rm=3" 
                 alt="Estructura de registros" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
@@ -172,7 +172,7 @@ const UnitSection = ({ unitId, isActive }) => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://gettyimages.com.mx/fotos/placa-base" 
+                src="https://tse3.mm.bing.net/th/id/OIP.Syutf-6cAkTRpBmi5rUirQHaE7?rs=1&pid=ImgDetMain&o=7&rm=3" 
                 alt="Chipset de placa base" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
@@ -188,7 +188,7 @@ const UnitSection = ({ unitId, isActive }) => {
             </div>
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://www.amazon.com.mx/fuente-de-poder/s?k=fuente+de+poder"  
+                src="https://tse2.mm.bing.net/th/id/OIP.VZGA_8t33uFv0ACP67PDUgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"  
                 alt="Fuente de alimentación" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
