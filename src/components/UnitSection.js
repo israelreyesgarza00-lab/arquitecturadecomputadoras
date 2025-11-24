@@ -44,7 +44,7 @@ const UnitSection = ({ unitId, isActive }) => {
           </h4>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
-              <img src="unidad1.1.jpg"
+              <img src="https://imgs.search.brave.com/qnSAg23MUuGrXm047yeA93G7bu8XDfmA32MevPcuo24/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQ1L2E5/L2Y1LzQ1YTlmNThl/MjZmMzdiZGM1Y2Fm/MTU5MzM0NWIxMzI5/LmpwZw"
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
               <p className="p-2 text-xs text-gray-600 text-center">Arquitectura Von Neumann</p>
