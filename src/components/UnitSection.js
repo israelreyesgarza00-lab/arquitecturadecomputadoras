@@ -51,7 +51,7 @@ const UnitSection = ({ unitId, isActive }) => {
             </div>
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?pipeline,processor" 
+                src="https://imgs.search.brave.com/FmE2tLMv3ZIUE6gC3OA4QemBAVvEKDXm_8xw42XvewY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/Y2FuLXBpcGVsaW5l/ZC1wcm9jZXNzb3It/Zml0LWluLXZvbi1u/ZXVtYW5uLWFyY2hp/dGVjdHVyZS12MC02/ZnR0bDhlZTVvMWUx/LnBuZz93aWR0aD02/NDAmY3JvcD1zbWFy/dCZhdXRvPXdlYnAm/cz05NzA2YWQ0MzQz/ZmUzMzA0ZWZiZDgz/MDRkMjIyYTYzN2Qx/YTVmM2Uw" 
                 alt="Pipeline de instrucciones" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
