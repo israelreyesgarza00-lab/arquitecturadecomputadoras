@@ -172,7 +172,7 @@ const UnitSection = ({ unitId, isActive }) => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?chipset,motherboard" 
+                src="https://gettyimages.com.mx/fotos/placa-base" 
                 alt="Chipset de placa base" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
@@ -180,7 +180,7 @@ const UnitSection = ({ unitId, isActive }) => {
             </div>
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?storage,ssd" 
+                src="https://imgs.search.brave.com/ZDhPnGhCmAubKhlfXXKWtRvgX6WtLnEiOY5GZ4woLdE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YXV0b25vbW91cy5h/aS9zdGF0aWMvdXBs/b2FkL2ltYWdlcy9j/b21tb24vdXBsb2Fk/LzIwMjMwNDAzL1Ro/ZS1CYXR0bGUtb2Yt/U1NELWFuZC1SQU0t/QS1Db21wcmVoZW5z/aXZlLUd1aWRlMDAw/MDU3Mjc1MGIyNWY0/LndlYnA" 
                 alt="Dispositivos de almacenamiento" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
@@ -188,7 +188,7 @@ const UnitSection = ({ unitId, isActive }) => {
             </div>
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?power-supply" 
+                src="https://www.amazon.com.mx/fuente-de-poder/s?k=fuente+de+poder"  
                 alt="Fuente de alimentación" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
