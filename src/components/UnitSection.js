@@ -59,7 +59,7 @@ const UnitSection = ({ unitId, isActive }) => {
             </div>
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?multiprocessing,cpu" 
+                src="https://source.unsplash.com/400x250/?multiprocessing,cpuhttps://4.bp.blogspot.com/-oKtfoquDAs0/VHg-7Wf1_FI/AAAAAAAAAFM/Q4LQoOw6gb4/s1600/7.jpg" 
                 alt="Sistema multiprocesador" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
