@@ -109,7 +109,7 @@ const UnitSection = ({ unitId, isActive }) => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?cpu-processor" 
+                src="https://1.bp.blogspot.com/-492R4ho8Lkc/VwMFSQWQwNI/AAAAAAAAAAo/yXtRESGTNjsrb2AwACw4wRJOtZ-t-vCRg/w1200-h630-p-k-no-nu/unidad-central-de-proceso.jpg" 
                 alt="Organización interna del CPU" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
@@ -117,7 +117,7 @@ const UnitSection = ({ unitId, isActive }) => {
             </div>
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?registers,cpu" 
+                src="https://th.bing.com/th/id/R.31bb1d1a002274169f4401eeedf83984?rik=YdRCNYTQI2vLiw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-jSfNRyGQbPE%2fVU2gQlpgYOI%2fAAAAAAAAACo%2fjIAqIIecNd4%2fs1600%2f10.jpg&ehk=KUQI%2bPIpJAAEip3Z7dyUOGLuKGaWbyo8ixKbCSqD00Q%3d&risl=&pid=ImgRaw&r=0" 
                 alt="Estructura de registros" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
@@ -125,7 +125,7 @@ const UnitSection = ({ unitId, isActive }) => {
             </div>
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?instruction-cycle" 
+                src="https://tse1.mm.bing.net/th/id/OIP.vGhHddZr8J1A177uraPbCwHaET?rs=1&pid=ImgDetMain&o=7&rm=3" 
                 alt="Ciclo de instrucción" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
