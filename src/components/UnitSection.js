@@ -283,13 +283,13 @@ const UnitSection = ({ unitId, isActive }) => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?low-end-processor" 
+                src="https://www.pccomponentes.com/tipos-de-procesadores-intel-core-y-sus-diferencias" 
                 alt="Procesador gama baja" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
               <p className="p-2 text-xs text-gray-600 text-center">Gama Baja</p>
             </div>
-            <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
+            <div className="https://tse3.mm.bing.net/th/id/OIP.kpQ3NEGaVGPLOY7Argir7AHaD4?rs=1&pid=ImgDetMain&o=7&rm=3">
               <img 
                 src="https://source.unsplash.com/400x250/?mid-range-cpu" 
                 alt="Procesador gama media" 
@@ -299,7 +299,7 @@ const UnitSection = ({ unitId, isActive }) => {
             </div>
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?high-end-cpu" 
+                src="https://tse3.mm.bing.net/th/id/OIP.DQs5pEcWWMnj2Sf1aH-KigHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" 
                 alt="Procesador gama alta" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
