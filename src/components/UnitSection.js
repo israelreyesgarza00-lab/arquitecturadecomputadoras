@@ -235,7 +235,7 @@ const UnitSection = ({ unitId, isActive }) => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?parallel-computing" 
+                src="https://tse3.mm.bing.net/th/id/OIP.Aokjz8oKKpkdamHPKymccgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" 
                 alt="Computación paralela básica" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
@@ -243,7 +243,7 @@ const UnitSection = ({ unitId, isActive }) => {
             </div>
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?shared-memory" 
+                src="https://itigic.com/wp-content/uploads/2021/03/20210318_6053c5f465f24.jpg" 
                 alt="Memoria compartida UMA/NUMA" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
@@ -251,7 +251,7 @@ const UnitSection = ({ unitId, isActive }) => {
             </div>
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://source.unsplash.com/400x250/?distributed-memory" 
+                src="https://tse2.mm.bing.net/th/id/OIP.k_m0oDcs-TAwPpXzveLUlAHaFX?rs=1&pid=ImgDetMain&o=7&rm=3" 
                 alt="Sistemas distribuidos" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
