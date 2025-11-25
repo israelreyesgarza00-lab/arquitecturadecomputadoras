@@ -283,7 +283,7 @@ const UnitSection = ({ unitId, isActive }) => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200">
               <img 
-                src="https://www.pccomponentes.com/tipos-de-procesadores-intel-core-y-sus-diferencias" 
+                src="https://i.ytimg.com/vi/WkzuxUVZQ0g/maxresdefault.jpg" 
                 alt="Procesador gama baja" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
@@ -291,7 +291,7 @@ const UnitSection = ({ unitId, isActive }) => {
             </div>
             <div className="https://tse3.mm.bing.net/th/id/OIP.kpQ3NEGaVGPLOY7Argir7AHaD4?rs=1&pid=ImgDetMain&o=7&rm=3">
               <img 
-                src="https://source.unsplash.com/400x250/?mid-range-cpu" 
+                src="https://fhgamer.ar/wp-content/uploads/2023/11/image-4-edited.png" 
                 alt="Procesador gama media" 
                 className="w-full h-48 object-cover hover:scale-105 transition-transform duration-300"
               />
